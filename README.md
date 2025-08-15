@@ -1,4 +1,4 @@
-# Flask Analytics App
+# Sample Login Page using Flask
 
 A simple Flask web application with login and registration pages, styled using Bootstrap and custom CSS.
 
